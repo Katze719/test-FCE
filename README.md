@@ -1,4 +1,4 @@
-# upload-inc
+# upload-inc.php
 
 ## documentation
 
