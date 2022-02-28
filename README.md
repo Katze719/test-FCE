@@ -19,7 +19,9 @@ $bool = file_delete_all_from_user($username);
 zum löschen eines bildes
 gibt dir true oder false zurück
 ```php
+<?php
 $bool = file_delete($file_path);
+?>
 ```
 
 ### file_get_profile_pic()
