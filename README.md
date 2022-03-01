@@ -34,6 +34,12 @@ gibt dir alle bilder eines users zurück mit aussnahme von videos und profilbild
 $array = file_get_array($username);
 ```
 
+### file_get_array_videos()
+gibt dir alle videos eines users zurück mit aussnahme von videos und profilbild in einem array
+```php
+$array = file_get_array_videos($username);
+```
+
 ### file_upload()
 file upload zu einem user
 die funktion gibt immer eine msg zurück, ob alles funktioniert hat oder ob es fehler gab
