@@ -35,7 +35,7 @@ $array = file_get_array($username);
 ```
 
 ### file_get_array_videos()
-gibt dir alle videos eines users zurück mit aussnahme von videos und profilbild in einem array
+gibt dir alle videos eines users zurück in einem array
 ```php
 $array = file_get_array_videos($username);
 ```
